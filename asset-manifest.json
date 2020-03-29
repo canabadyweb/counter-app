@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/counter-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/counter-app/static/js/main.b6b8856b.chunk.js",
+    "main.js.map": "/counter-app/static/js/main.b6b8856b.chunk.js.map",
+    "runtime-main.js": "/counter-app/static/js/runtime-main.c8445eb5.js",
+    "runtime-main.js.map": "/counter-app/static/js/runtime-main.c8445eb5.js.map",
+    "static/js/2.e4e4eecc.chunk.js": "/counter-app/static/js/2.e4e4eecc.chunk.js",
+    "static/js/2.e4e4eecc.chunk.js.map": "/counter-app/static/js/2.e4e4eecc.chunk.js.map",
+    "index.html": "/counter-app/index.html",
+    "precache-manifest.664add8b8a1cb21ae8b42a2638fcc3dc.js": "/counter-app/precache-manifest.664add8b8a1cb21ae8b42a2638fcc3dc.js",
+    "service-worker.js": "/counter-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/counter-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4e4eecc.chunk.js.LICENSE.txt": "/counter-app/static/js/2.e4e4eecc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/counter-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8445eb5.js",
+    "static/js/2.e4e4eecc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b6b8856b.chunk.js"
+  ]
+}
