@@ -6,9 +6,9 @@ export default class Counter extends Component {
     tags: ["tag1", "tag2", "tag3"]
   };
 
-  handleIncrement() {
-    console.log("Increment Clicked");
-  }
+  handleIncrement = () => {
+    this.setState({ count: this.state.count + 1 });
+  };
 
   render() {
     return (
@@ -31,12 +31,12 @@ export default class Counter extends Component {
 
   getBadgeClasses() {
     let classes = "badge m-2 badge-";
-    classes += this.state.count == 0 ? "warning" : "primary";
+    classes += this.state.count === 0 ? "warning" : "primary";
     return classes;
   }
 
   formatCount() {
     const { count } = this.state;
-    return count == 0 ? "Zero" : count;
+    return count === 0 ? "Zero" : count;
   }
 }
